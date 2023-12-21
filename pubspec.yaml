@@ -12,6 +12,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.6.0
 
 dev_dependencies:
   flutter_test:
@@ -28,13 +29,13 @@ flutter:
   fonts:
      - family: InstagramSans
        fonts:
-         - asset: fonts/Instagram-Sans.ttf
-         - asset: fonts/Instagram-Sans-Bold.ttf
+         - asset: assets/fonts/Instagram-Sans.ttf
+         - asset: assets/fonts/Instagram-Sans-Bold.ttf
            weight: 700
-         - asset: fonts/Instagram-Sans-Light.ttf
+         - asset: assets/fonts/Instagram-Sans-Light.ttf
            weight: 300
-         - asset: fonts/Instagram-Sans-Medium.ttf
+         - asset: assets/fonts/Instagram-Sans-Medium.ttf
            weight: 500
      - family: InstagramSansHeadline
        fonts:
-         - asset: fonts/Instagram-Sans-Headline.otf
+         - asset: assets/fonts/Instagram-Sans-Headline.otf
